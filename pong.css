@@ -1,0 +1,30 @@
+.Instructions{
+    float: right;
+}
+.header{
+    font-size: x-large;
+}
+.footer{
+    width: 100%;
+    font-size:larger;
+    position: fixed;
+    line-height: 3px;
+    bottom: 0;
+    margin-bottom: 10px;
+    background-color:darkblue;
+}
+#restart_btn{
+    font-size:large;
+    border:fixed 10px black;
+    border-radius: 10px;
+}
+body{
+    color:cyan;
+}
+canvas{
+    box-shadow:10px 10px 15px white;
+    border-radius: 50px;
+    border:3px solid white;
+    margin-bottom: 100px;
+    margin-left: 300px;
+}
